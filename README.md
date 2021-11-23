@@ -20,7 +20,20 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<h3>Projetos</h3>
+<ul>
+  <h5>React</h5>
+  <li><a href="https://github.com/R0drig/Netflix-UI-Clone">Netflix Clone</a></li>
+  <li><a href="https://github.com/R0drig/Github-searcher-react">Github Interface Searcher</a></li>
+  <li><a href="https://github.com/R0drig/Calculator-React">React Calculator</a></li>
+  
+  <h5>Django</h5>
+  <li><a href="https://github.com/R0drig/todo-django">Todo App MVC</a></li>
+  <li><a href="https://github.com/R0drig/Social-net-api-django">Social Network Api</a></li>
+  
+  <h5>NodeJS</h5>
+  <li><a href="https://github.com/R0drig/Url-Short-node">URL shorthener(Encurtador de URL)</a></li>
+</ul>
 
 <a href="https://github.com/R0drig">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0drig&theme=gruvbox" />
