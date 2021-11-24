@@ -33,6 +33,7 @@
   
   <h5>NodeJS</h5>
   <li><a href="https://github.com/R0drig/Url-Short-node">URL shorthener(Encurtador de URL)</a></li>
+  <li><a href="https://github.com/R0drig/node-crud-api">CRUD-rest-api</a></li>
 </ul>
 
 <a href="https://github.com/R0drig">
