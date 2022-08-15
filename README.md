@@ -1,7 +1,7 @@
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando Desenvolvimento Web e projetando soluções em Django, Nodejs e React.
-- 🎓 &nbsp; Estudando **Meteorologia** no <a href="https://iag.usp.br">IAG - USP</a>.
+- 🎓 &nbsp; Estudando **Matemática Aplicada e Computacional ** no <a>IME - USP</a>.
 - 💼 &nbsp; Atualmente disponivel para ofertas de contratação
 - 🌱 &nbsp; Aprendendo mais sobre **React, Nodejs, Django**.
 
